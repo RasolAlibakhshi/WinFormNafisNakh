@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|f:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\winformnafisnakh\\winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|solutionrelative:winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|f:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\winformnafisnakh\\winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|solutionrelative:winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|f:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\winformnafisnakh\\winformnafisnakh\\rawdataprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|solutionrelative:winformnafisnakh\\rawdataprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RawDataPrint.cs",
+              "DocumentMoniker": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\RawDataPrint.cs",
+              "RelativeDocumentMoniker": "WinFormNafisNakh\\RawDataPrint.cs",
+              "ToolTip": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\RawDataPrint.cs",
+              "RelativeToolTip": "WinFormNafisNakh\\RawDataPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T20:06:49.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormNafisNakh\\Form1.cs",
+              "ToolTip": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormNafisNakh\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:34:33.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormNafisNakh\\Form1.cs",
+              "ToolTip": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\Form1.cs",
+              "RelativeToolTip": "WinFormNafisNakh\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAqwEQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T18:34:24.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

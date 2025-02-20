@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MYYP0zGyMrSaO1GrzI2SKdydX8OX17sOvWVwG0PfDRnzvHLDdKtCf1Gp5o2dpC714jeaIbtCtmecRtkc1cFkQ==",
+  "success": true,
+  "projectFilePath": "F:\\فایل های تمرینی\\WinFormNafisNakh\\WinFormNafisNakh\\WinFormNafisNakh.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasol\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rasol\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

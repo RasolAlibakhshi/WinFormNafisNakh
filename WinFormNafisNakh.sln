@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormNafisNakh", "WinFormNafisNakh\WinFormNafisNakh.csproj", "{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187DB24F-A9AB-4170-A988-5672BBB25A09}
+	EndGlobalSection
+EndGlobal

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|solutionrelative:winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|f:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\winformnafisnakh\\winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|solutionrelative:winformnafisnakh\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|f:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\winformnafisnakh\\winformnafisnakh\\rawdataprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\winformnafisnakh\\rawdataprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A21424E-DE12-42D3-82DB-C5D0F62C72EA}|WinFormNafisNakh\\WinFormNafisNakh.csproj|solutionrelative:winformnafisnakh\\rawdataprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "WinFormNafisNakh\\RawDataPrint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T20:06:49.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T20:06:49.511Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "WinFormNafisNakh\\Form1.cs",
               "ToolTip": "F:\\\u0641\u0627\u06CC\u0644 \u0647\u0627\u06CC \u062A\u0645\u0631\u06CC\u0646\u06CC\\WinFormNafisNakh\\WinFormNafisNakh\\Form1.cs",
               "RelativeToolTip": "WinFormNafisNakh\\Form1.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAqwEQAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T18:34:24.676Z",
               "EditorCaption": ""

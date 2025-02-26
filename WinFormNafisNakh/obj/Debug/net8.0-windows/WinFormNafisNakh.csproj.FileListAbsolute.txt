@@ -20,3 +20,4 @@ F:\فایل های تمرینی\WinFormNafisNakh\WinFormNafisNakh\obj\Debug\net8
 F:\فایل های تمرینی\WinFormNafisNakh\WinFormNafisNakh\obj\Debug\net8.0-windows\WinFormNafisNakh.pdb
 F:\فایل های تمرینی\WinFormNafisNakh\WinFormNafisNakh\obj\Debug\net8.0-windows\WinFormNafisNakh.genruntimeconfig.cache
 F:\فایل های تمرینی\WinFormNafisNakh\WinFormNafisNakh\obj\Debug\net8.0-windows\ref\WinFormNafisNakh.dll
+F:\فایل های تمرینی\WinFormNafisNakh\WinFormNafisNakh\obj\Debug\net8.0-windows\WinFormNafisNakh.sourcelink.json

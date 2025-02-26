@@ -1,0 +1,9 @@
+C:\Users\Rasol\Desktop\New folder\WinFormNafisNakh.exe
+C:\Users\Rasol\Desktop\New folder\WinFormNafisNakh.dll
+C:\Users\Rasol\Desktop\New folder\WinFormNafisNakh.deps.json
+C:\Users\Rasol\Desktop\New folder\WinFormNafisNakh.runtimeconfig.json
+C:\Users\Rasol\Desktop\New folder\WinFormNafisNakh.pdb
+C:\Users\Rasol\Desktop\New folder\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rasol\Desktop\New folder\System.Drawing.Common.dll
+C:\Users\Rasol\Desktop\New folder\System.Private.Windows.Core.dll
+C:\Users\Rasol\Desktop\New folder\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll

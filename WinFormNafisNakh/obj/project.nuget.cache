@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "/MYYP0zGyMrSaO1GrzI2SKdydX8OX17sOvWVwG0PfDRnzvHLDdKtCf1Gp5o2dpC714jeaIbtCtmecRtkc1cFkQ==",
+  "dgSpecHash": "V1DQM/HlRzssnHPuUWzEaM2irAaqJLt/eBKZhONbuyLxRA+DpXxDbvOvYRSmdp8Xc9FxmnH5a0xpURmYwyPK5A==",
   "success": true,
   "projectFilePath": "F:\\فایل های تمرینی\\WinFormNafisNakh\\WinFormNafisNakh\\WinFormNafisNakh.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rasol\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
-    "C:\\Users\\Rasol\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+    "C:\\Users\\Rasol\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512",
+    "C:\\Users\\Rasol\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Rasol\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\Rasol\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }
